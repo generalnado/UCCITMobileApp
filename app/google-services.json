@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825150896094",
+    "project_id": "my-ucc-it",
+    "storage_bucket": "my-ucc-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825150896094:android:0b5349bbfd4f29de6acf4f",
+        "android_client_info": {
+          "package_name": "com.gennard.myucc_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJGxNRl9UPvIAjl2sej1Xij5wMGqIZgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

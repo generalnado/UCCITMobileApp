@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">myUCC_IT</string>
+    <string name="title_activity_directory">DirectoryActivity</string>
+    <string name="large_text">Large text</string>
+    <string name="action_settings">Settings</string>
+    <string name="faculty_directory">Faculty Directory</string>
+    <string name="website">Website</string>
+    <string name="apply_now">Apply Now</string>
+    <string name="istagram_button">istagram_button</string>
+    <string name="facebook_button">facebook_button</string>
+    <string name="twitter_button">twitter_button</string>
+    <string name="apply_linear_layout">apply_linear_layout</string>
+    <string name="apply_button">apply_button</string>
+    <string name="apply_textview">apply_textView</string>
+    <string name="courses_linear_layout">courses_linear_layout</string>
+    <string name="courses_button">courses_button</string>
+    <string name="courses_textview">courses_textView</string>
+    <string name="courses">Courses</string>
+    <string name="faculty_button">faculty_button</string>
+    <string name="social_linear_layout">social_linear_layout</string>
+    <string name="admission_button">admission_button</string>
+    <string name="todo">TODO</string>
+    <string name="click_to_view_it_faculty">Click to View IT Faculty</string>
+    <string name="click_to_view_admission_requirements">Click to View Admission Requirements</string>
+    <string name="click_to_apply_access_social_media_pages"><![CDATA[Click to Apply & Access Social Media Pages]]></string>
+    <string name="click_to_view_courses">Click to View Courses</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="code">Code</string>
+    <string name="course_listing">Course Listing</string>
+    <string name="it_courses">IT Courses</string>
+    <string name="pre_requisites">Pre-requisites</string>
+    <string name="description">Description</string>
+    <string name="credits">Credits</string>
+    <string name="course_title">Course Title</string>
+    <string name="click_to_visit_website_apply_view_admission_requirements_and_social_media_accounts_or_click_the_links_below_for_social_media_accounts">Click to Visit Website: Apply, View Admission Requirements and Social Media Accounts or click the links below for Social Media Accounts</string>
+    <string name="click_to_visit_the_home_page_apply_today">Click to Visit the Home Page: Apply Today!</string>
+
+    <string-array name="faculty">
+        <item>ROSE, Natalie</item>
+        <item>OSBOURNE, Otis</item>
+        <item>NDAJAH, Peter</item>
+        <item>REID, Pamella</item>
+        <item>WILMOT, Craig</item>
+    </string-array>
+</resources>
